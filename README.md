@@ -1,0 +1,1 @@
+It is the repository for taking a note of sql that I faced before.
